@@ -1,6 +1,6 @@
 # DataDash
 
-DataDash is an interactive data visualization app built with Streamlit that allows users to explore datasets using customizable line plots.
+DataDash is a powerful data exploration tool, enabling users to analyze datasets through dynamic line plots. With DataDash, users can effortlessly visualize data trends and patterns, gaining valuable insights with just a few clicks.
 
 ## Description
 
@@ -11,7 +11,6 @@ DataDash provides a user-friendly interface for uploading CSV, Excel, or JSON da
 - Upload data files (CSV, Excel, JSON)
 - Select columns for x and y axes
 - Choose rows to include in the plot
-- Customize line colors, markers, and styles
 - Interactive legend and axis labels
 - Responsive layout for optimal viewing.
 
@@ -45,8 +44,7 @@ DataDash provides a user-friendly interface for uploading CSV, Excel, or JSON da
 
 2. Upload your data file using the file uploader.
 3. Select the desired columns and rows for the plot.
-4. Customize the plot settings as needed.
-5. Explore the interactive line plot visualization.
+4. Explore the interactive line plot visualization.
 
 ## Contributing
 
