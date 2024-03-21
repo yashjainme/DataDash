@@ -19,7 +19,7 @@ DataDash provides a user-friendly interface for uploading CSV, Excel, or JSON da
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/datadash.git
+    git clone https://github.com/yashjainme/datadash.git
     ```
 
 2. Navigate to the project directory:
